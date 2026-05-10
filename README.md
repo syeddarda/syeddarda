@@ -92,6 +92,18 @@ analyst = {
 
 ---
 
+## 🚀 Featured Project
+
+<div align="center">
+
+[![StockLens](https://img.shields.io/badge/🔬_StockLens-AI_Stock_Analysis-6AD3F7?style=for-the-badge&labelColor=0D1117)](https://syeddarda.github.io/stock-analysis-app/)
+
+**[StockLens](https://syeddarda.github.io/stock-analysis-app/)** — Real-time stock analysis powered by Claude AI. Enter any ticker to get candlestick charts, RSI/MACD/Bollinger Bands, key fundamentals, insider activity, and an AI-generated buy/hold/sell verdict.
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```
